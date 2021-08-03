@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/foodz-website/static/css/main.636f9369.chunk.css",
+    "main.js": "/foodz-website/static/js/main.2ee4fbad.chunk.js",
+    "main.js.map": "/foodz-website/static/js/main.2ee4fbad.chunk.js.map",
+    "runtime-main.js": "/foodz-website/static/js/runtime-main.4aaf2b0d.js",
+    "runtime-main.js.map": "/foodz-website/static/js/runtime-main.4aaf2b0d.js.map",
+    "static/css/2.4be38407.chunk.css": "/foodz-website/static/css/2.4be38407.chunk.css",
+    "static/js/2.c53b5dc5.chunk.js": "/foodz-website/static/js/2.c53b5dc5.chunk.js",
+    "static/js/2.c53b5dc5.chunk.js.map": "/foodz-website/static/js/2.c53b5dc5.chunk.js.map",
+    "index.html": "/foodz-website/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/foodz-website/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.636f9369.chunk.css.map": "/foodz-website/static/css/main.636f9369.chunk.css.map",
+    "static/js/2.c53b5dc5.chunk.js.LICENSE.txt": "/foodz-website/static/js/2.c53b5dc5.chunk.js.LICENSE.txt",
+    "static/media/burger.55063e56.jpg": "/foodz-website/static/media/burger.55063e56.jpg",
+    "static/media/cake.9c3b2ce4.jpg": "/foodz-website/static/media/cake.9c3b2ce4.jpg",
+    "static/media/coupens.b76bd569.jpg": "/foodz-website/static/media/coupens.b76bd569.jpg",
+    "static/media/dinein.e0517c24.jpg": "/foodz-website/static/media/dinein.e0517c24.jpg",
+    "static/media/feedback.59db4d37.jpg": "/foodz-website/static/media/feedback.59db4d37.jpg",
+    "static/media/index.css": "/foodz-website/static/media/pizzas.5415dcb1.jpg",
+    "static/media/meal.6c86ce81.jpg": "/foodz-website/static/media/meal.6c86ce81.jpg",
+    "static/media/meat.7e2b4a5b.jpg": "/foodz-website/static/media/meat.7e2b4a5b.jpg",
+    "static/media/offers.591e2037.jpg": "/foodz-website/static/media/offers.591e2037.jpg",
+    "static/media/order.d8d9cdeb.jpg": "/foodz-website/static/media/order.d8d9cdeb.jpg",
+    "static/media/pizzahut.87f165d8.png": "/foodz-website/static/media/pizzahut.87f165d8.png",
+    "static/media/shakes.c9639571.jpg": "/foodz-website/static/media/shakes.c9639571.jpg",
+    "static/media/takeaway.e1923bd1.jpg": "/foodz-website/static/media/takeaway.e1923bd1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aaf2b0d.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.c53b5dc5.chunk.js",
+    "static/css/main.636f9369.chunk.css",
+    "static/js/main.2ee4fbad.chunk.js"
+  ]
+}
